@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/20 15:17:55.000.748,=D:\OneDrive\Users\Gabriel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/20 15:19:16.000.692,D:\Projects\Gabriel\TesteQuality\UFMain.pas=D:\OneDrive\Users\Gabriel\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/20 15:19:16.000.692,D:\Projects\Gabriel\TesteQuality\UFMain.dfm=D:\OneDrive\Users\Gabriel\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/05/20 15:19:32.000.549,D:\Projects\Gabriel\TesteQuality\TesteQuality.dproj=D:\OneDrive\Users\Gabriel\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/05/20 15:24:42.000.388,=D:\Projects\Gabriel\TesteQuality\Unit2.pas</Transaction>
+    <Transaction>2023/05/20 15:25:18.000.921,D:\Projects\Gabriel\TesteQuality\UFUser.dfm=D:\Projects\Gabriel\TesteQuality\Unit2.dfm</Transaction>
+    <Transaction>2023/05/20 15:25:18.000.921,D:\Projects\Gabriel\TesteQuality\UFUser.pas=D:\Projects\Gabriel\TesteQuality\Unit2.pas</Transaction>
+    <Transaction>2023/05/20 15:35:19.000.985,=D:\Projects\Gabriel\TesteQuality\Unit1.pas</Transaction>
+    <Transaction>2023/05/20 15:35:40.000.639,D:\Projects\Gabriel\TesteQuality\UDmMain.pas=D:\Projects\Gabriel\TesteQuality\Unit1.pas</Transaction>
+    <Transaction>2023/05/20 15:35:40.000.639,D:\Projects\Gabriel\TesteQuality\UDmMain.dfm=D:\Projects\Gabriel\TesteQuality\Unit1.dfm</Transaction>
+    <Transaction>2023/05/20 16:26:24.000.228,=D:\Projects\Gabriel\TesteQuality\Unit1.pas</Transaction>
+    <Transaction>2023/05/20 16:26:43.000.614,D:\Projects\Gabriel\TesteQuality\UConsts.pas=D:\Projects\Gabriel\TesteQuality\Unit1.pas</Transaction>
+    <Transaction>2023/05/20 16:29:44.000.008,D:\Projects\Gabriel\TesteQuality\USettings.pas=D:\Projects\Gabriel\TesteQuality\UConsts.pas</Transaction>
+    <Transaction>2023/05/21 16:25:07.000.023,=D:\Projects\Gabriel\TesteQuality\Unit1.pas</Transaction>
+    <Transaction>2023/05/21 16:47:06.000.566,D:\Projects\Gabriel\TesteQuality\Unit1.dfm=D:\Projects\Gabriel\TesteQuality\UReports.dfm</Transaction>
+    <Transaction>2023/05/21 16:47:06.000.566,D:\Projects\Gabriel\TesteQuality\Unit1.pas=D:\Projects\Gabriel\TesteQuality\UReports.pas</Transaction>
+    <Transaction>2023/05/21 18:00:38.000.946,=D:\Componentes\Delphi\11\FortesReport\trunk\Demos\Simples\ufrmReport.pas</Transaction>
+    <Transaction>2023/05/21 18:07:24.000.351,D:\Componentes\Delphi\11\FortesReport\trunk\Demos\Simples\ufrmReport.pas=</Transaction>
+    <Transaction>2023/05/21 19:20:49.844,=D:\Projects\Gabriel\TesteQuality\Unit1.pas</Transaction>
+    <Transaction>2023/05/21 19:21:16.691,D:\Projects\Gabriel\TesteQuality\UFSettings.pas=D:\Projects\Gabriel\TesteQuality\Unit1.pas</Transaction>
+    <Transaction>2023/05/21 19:21:16.691,D:\Projects\Gabriel\TesteQuality\UFSettings.dfm=D:\Projects\Gabriel\TesteQuality\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
